@@ -1,0 +1,2 @@
+# rats-rule
+a repository
